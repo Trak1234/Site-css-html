@@ -1,0 +1,144 @@
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+.promo {
+    
+    height: 800px;
+    background: url('../img/bg/main_bg.png') center center/cover no-repeat;
+    padding: 39px 62px 0;
+}
+
+.logo .logo_img {
+    display: block;
+    margin: 0 auto;
+
+}
+.logo_text{
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 14px;
+}
+
+.title {
+    
+width: 780px;
+height: 41px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 41px;
+line-height: 41px;
+/* identical to box height, or 100% */
+
+position: relative;
+left:180px;
+padding: 10px;
+text-align: center;
+text-transform: uppercase;
+
+
+color: #F9BF3B;
+}
+
+
+.title {
+width: 780px;
+height: 41px;
+
+position: relative;
+left:180px;
+padding: 10px;
+text-align: center;
+text-transform: uppercase;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 41px;
+line-height: 41px;
+
+}
+.promo .promo_text {
+ 
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 28px;
+/* or 133% */
+
+display: relative;
+padding: 60px;
+
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.title_big {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 80px;
+    line-height: 80px;
+    /* or 100% */
+    
+    position: relative;
+    padding:40px;
+    top:30px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+}
+
+.but {
+    
+display: block;    
+width: 313px;
+height: 72px;
+margin: 0 auto;
+
+border-radius: 100%;
+background: linear-gradient(0deg, #2798B9 0%, #3AB6DA 100%);
+box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
+
+
+
+
+
+
+font-family: 'RobotoCondensed';
+font-size: 21px;
+line-height: 24px;
+/* identical to box height, or 114% */
+
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+padding: 10px;
+color: #FFFFFF;
+
+text-shadow: -1px -1px 0px rgba(0, 0, 0, 0.22);
+
+}
